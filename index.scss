@@ -1,0 +1,143 @@
+.titulo{
+    text-align: center;
+    background-color:none ;
+   display: flex;
+    justify-content: center;
+    margin: 5% 0% 10% 0%;
+    border-style: solid;
+}
+
+
+.menu{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+   
+}
+
+
+
+.form{
+width: 500px;
+}
+
+div{
+    .cerasojain{
+        text-align: center;
+        font-size: xx-large;
+       
+            }
+    }
+
+    
+body{
+    background-image: radial-gradient(pink, beige,rgb(189, 147, 147));
+}
+footer{
+    display: flex;
+    float: left;
+    div{
+        text-align: right;
+    }
+}
+.logo{
+    width: 15%;
+    height: 15%;
+}
+
+footer{
+   
+    
+   
+    text-align: right;
+    background-color:none ;
+    margin: 3% 5% 5% 35%;
+    border-style: none;
+}
+
+.cerasojain{
+    text-align: right;
+    background-color:none ;
+    margin: 0% 0% 5% 3%;
+    border-style: none;
+}
+article{
+    div{
+        text-align: center;
+        margin: 3% 0% 0% 0%;
+    }
+}
+
+
+@media screen and (min-width: 320px) {
+
+    .titulo{
+        text-align: center;
+        background-color:none ;
+       display: flex;
+        justify-content: center;
+        margin: 5% 0% 10% 0%;
+        border-style: solid;
+    }
+    
+    
+    .menu{
+        display:flex;
+        flex-direction: row;
+        justify-content: space-evenly;
+       
+    }
+    
+    
+    
+    .form{
+    width: 500px;
+    }
+    
+    div{
+        .cerasojain{
+            text-align: center;
+            font-size: xx-large;
+           
+                }
+        }
+    
+        
+    body{
+        background-image: radial-gradient(pink, beige,rgb(189, 147, 147));
+    }
+    footer{
+        display: flex;
+        float: left;
+        div{
+            text-align: right;
+        }
+    }
+    .logo{
+        width: 50%;
+        height: 50%;
+    }
+    
+    footer{
+       
+        
+       
+        text-align: right;
+        background-color:none ;
+        margin: 3% 5% 5% 35%;
+        border-style: none;
+    }
+    
+    .cerasojain{
+        text-align: right;
+        background-color:none ;
+        margin: 0% 0% 5% 3%;
+        border-style: none;
+    }
+    article{
+        div{
+            text-align: center;
+            margin: 3% 0% 0% 0%;
+        }
+    }
+}

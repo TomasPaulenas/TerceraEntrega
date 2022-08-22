@@ -1,0 +1,84 @@
+.titulo {
+  text-align: center;
+  background-color: none;
+  display: flex;
+  justify-content: center;
+  margin: 5% 0% 10% 0%;
+  border-style: solid;
+}
+
+.kit {
+  display: flex;
+  float: right;
+  width: 50%;
+  height: 50%;
+}
+
+#titulokit {
+  text-align: right;
+  background-color: none;
+  display: flex;
+  justify-content: center;
+}
+
+.neutro {
+  text-align: center;
+  background-color: none;
+  display: flex;
+  justify-content: center;
+  border-style: solid;
+}
+
+.menu {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+
+.kit2 {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.form {
+  width: 500px;
+}
+
+div .cerasojain {
+  text-align: center;
+  font-size: xx-large;
+}
+
+body {
+  background-image: radial-gradient(pink, beige, rgb(189, 147, 147));
+}
+
+footer {
+  display: flex;
+  float: left;
+}
+footer div {
+  text-align: right;
+}
+
+.logo {
+  width: 15%;
+  height: 15%;
+}
+
+.titulo2 {
+  text-align: center;
+  background-color: none;
+  display: flex;
+  justify-content: center;
+  margin: 3% 0% 5% 0%;
+  border-style: solid;
+}
+
+footer {
+  text-align: right;
+  background-color: none;
+  margin: 3% 5% 5% 35%;
+  border-style: none;
+}/*# sourceMappingURL=kits.css.map */
