@@ -22,4 +22,5 @@ while(salida != 1 ) {
     alert("producto sin stock o inexistente, por favor intentelo de nuevo")  
    }
    salida = prompt("Si desea finalizar la busqueda, ingrese el numero 1 para salir:") 
+   
 }
